@@ -348,7 +348,7 @@ End of functions from https://github.com/client9/shlib
 EOF
 
 PROJECT_NAME="woke"
-OWNER=get-woke
+OWNER=nhosoi
 REPO="woke"
 BINARY=woke
 FORMAT=tar.gz
